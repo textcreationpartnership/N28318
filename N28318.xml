@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037746_0000_100EFE2CF8D6DB88"/>
-            <pb facs="tcp:037746_0001_100ED47E68B79580"/>
+            <pb facs="unknown:037746_0000_100EFE2CF8D6DB88"/>
+            <pb facs="unknown:037746_0001_100ED47E68B79580"/>
             <p>THE COUNT OF BURGUNDY: A COMEDY OF KOTZEBUE. IN <hi>FOUR ACTS.</hi>
             </p>
             <p>TRANSLATED FROM THE GERMAN, BY <hi>CHARLES SMITH.</hi>
@@ -128,12 +128,12 @@
             <p>[<hi>M. M<hi rend="sup">c</hi>Farlane, Printer,</hi> 29 <hi>Gold-Street.</hi>]</p>
          </div>
          <div type="authors_introduction">
-            <pb facs="tcp:037746_0002_100ED4804F54AEC0"/>
+            <pb facs="unknown:037746_0002_100ED4804F54AEC0"/>
             <p>THE AUTHOR'S INTRODUCTION TO THE FIRST VOLUME.</p>
             <p>ON this collection of my theatrical productions, I have little to ſay. As they had the good fortune of meeting with the public's approbation, they will un<g ref="char:EOLhyphen"/>doubtedly diſpleaſe the reviewers. I am ſo well ac<g ref="char:EOLhyphen"/>cuſtomed to the aſperity of thoſe cenſors againſt pub<g ref="char:EOLhyphen"/>lic approbation; to their illiberal hints against the morality of my pieces; to their evident endeavours to attack the weaker parts, and ſtill more to diſcolour the good, that I ſhall not loſe a ſingle word on that ſubject.</p>
             <p>I know better than any reviewer that I do not pro<g ref="char:EOLhyphen"/>duce maſter pieces, and that, as a dramatic writer, I deſerve but a ſubordinate rank. My productions are chiefly calculated for ſtage effect; they obtain that end, and in this point of view they ought to be judged. The public, which, for years back, has done me juſtice, will, I truſt, furniſh me in future with oil againſt the bitings of theſe muſquetoes.</p>
             <p>Some have objected to the <hi>Count of Burgundy,</hi> as appearing in the third act ſuddenly too accompliſhed. But has not that rather been the fault of the actor, who was unable to penetrate deep enough into the author's meaning?—If the young Count brings it forth as declamation what he has to ſay in the third act, to the people, to his mother, &amp;c. &amp;c.; if he rai<g ref="char:EOLhyphen"/>ſes his ſentiments into ſentences by oſtentation in his
-<pb n="iv" facs="tcp:037746_0003_100ED4826FC93B08"/>
+<pb n="iv" facs="unknown:037746_0003_100ED4826FC93B08"/>
 expreſſion; if he does not ſpeak it careleſsly, juſt ſo as his feeling lays it upon his tongue; if he permits himſelf but one moment, in accent and manners, to play the hero; then indeed the audience muſt find a ſtriking difference between him and the child of na<g ref="char:EOLhyphen"/>ture in the two firſt acts. I am ſorry to learn, that moſt of the young actors perform the Count's part in that manner, but that is not my fault. It was my duty not to inſert any thing in the third act that might be contradictory to the words of the firſt and ſecond, and this duty, I truſt, I have fulfilled. If they are ſpoken, as I thought them to myſelf; the audience will recognize the hermit's ſon in the reigning Count.</p>
             <p>
                <hi>Falſe Shame</hi> is a ſubject, which, I believe, has for the firſt time been brought upon the ſtage; and this fault being the ſource of ſo many evils in this world, I hope to have acquired ſome merit by inſpiring ma<g ref="char:EOLhyphen"/>ny a good heart with <hi>confidence</hi> to <hi>confidence.</hi>
@@ -150,7 +150,7 @@ expreſſion; if he does not ſpeak it careleſsly, juſt ſo as his feeling lay
             </closer>
          </div>
          <div type="translators_preface">
-            <pb n="v" facs="tcp:037746_0004_100ED4CA9A2E6480"/>
+            <pb n="v" facs="unknown:037746_0004_100ED4CA9A2E6480"/>
             <head>TRANSLATOR'S PREFACE.</head>
             <p>To lay before the public a faithful tranſlation of all the dramatic productions of the celebrated Kotze<g ref="char:EOLhyphen"/>bue, who is juſtly ſtyled the GERMAN SHAKESPEAR, is the deſign of the preſent undertaking.</p>
             <p>The difficulty of tranſlating from the German into the Engliſh language is very conſiderable, as has been ſufficiently verified by the many unſucceſsful attempts which have been made for that purpoſe.</p>
@@ -167,7 +167,7 @@ expreſſion; if he does not ſpeak it careleſsly, juſt ſo as his feeling lay
                </gap> his down to peruſe the author, he will <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="vi" facs="tcp:037746_0005_100EFE0D6E6F7F38"/>
+               <pb n="vi" facs="unknown:037746_0005_100EFE0D6E6F7F38"/>
 every effuſion of his heart in its real purity. He wiſhes neither for curtailment nor alterations—much leſs for any additions, which being often the produc<g ref="char:EOLhyphen"/>tions of men of inferior talents, greatly diminiſh the ſplendor of the original author.</p>
             <closer>
                <signed>THE AMERICAN TRANSLATOR.</signed> 
@@ -179,7 +179,7 @@ every effuſion of his heart in its real purity. He wiſhes neither for curtailm
             </closer>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037746_0006_100EFE0FD0327430"/>
+            <pb facs="unknown:037746_0006_100EFE0FD0327430"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -224,7 +224,7 @@ every effuſion of his heart in its real purity. He wiſhes neither for curtailm
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037746_0007_100EFE11B9CDA738"/>
+            <pb facs="unknown:037746_0007_100EFE11B9CDA738"/>
             <head>THE COUNT OF BURGUNDY.</head>
             <head type="sub">SCENE.</head>
             <p>A woody country at the foot of the Swiss mountains In the back ground an hermitage; opposite an open chapel; between both a garden fence. In the fore ground a grass bench underneath an apple-tree.</p>
@@ -276,7 +276,7 @@ every effuſion of his heart in its real purity. He wiſhes neither for curtailm
                   <p>Have you diſcovered that?</p>
                </sp>
                <sp>
-                  <pb n="2" facs="tcp:037746_0008_100EFE1343DB7510"/>
+                  <pb n="2" facs="unknown:037746_0008_100EFE1343DB7510"/>
                   <speaker>Henry.</speaker>
                   <p>Still more: You have a song of the sword of justice, and the shield of faith; you love to sing that best, because it speaks of swords and shields.</p>
                </sp>
@@ -354,7 +354,7 @@ every effuſion of his heart in its real purity. He wiſhes neither for curtailm
                   <speaker>Henry.</speaker>
                   <p>See here father! <stage>
                         <hi>(he splits a log with one
-<pb n="3" facs="tcp:037746_0009_100EFE15D5589D68"/>
+<pb n="3" facs="unknown:037746_0009_100EFE15D5589D68"/>
 stroke)</hi>
                      </stage> how old was the boy who made this stroke, do you think that an enemy's head is harder than this trunk?</p>
                </sp>
@@ -423,7 +423,7 @@ stroke)</hi>
                   <p>Allow me at least to travel into foreign countries, to prepare myself by actions for your re<g ref="char:EOLhyphen"/>venge.</p>
                </sp>
                <sp>
-                  <pb n="4" facs="tcp:037746_0010_100EFE192A406418"/>
+                  <pb n="4" facs="unknown:037746_0010_100EFE192A406418"/>
                   <speaker>Peter.</speaker>
                   <p>Would'st soon forget in the tumult of the world your old father and his wilderness.</p>
                </sp>
@@ -442,7 +442,7 @@ stroke)</hi>
                <stage>HENRY alone. Looks after his father, shakes his head and goes to his work.</stage>
                <sp>
                   <p>Very comprehensible. He has emptied the cup, how should he know what a thirsty man feels—tranqui<g ref="char:EOLhyphen"/>lity—a refreshing draught to the old, to youth poison—were but the wood in the forest harder, and requi<g ref="char:EOLhyphen"/>red more strength to split it, or were—<hi>(he looks up)</hi> hallo! there climbs Elsbeth down the footpath—God knows how she contrives it, let me but see her and I am contented with every thing—She leaps like a roe—old
-<pb n="5" facs="tcp:037746_0011_100EFE1AAEC7D480"/>
+<pb n="5" facs="unknown:037746_0011_100EFE1AAEC7D480"/>
 Gertraud behind her, laying hold of every branch—Shall I plague the girl?—I owe her something for the large stone she threw into the water th' other day, which wetted me from head to foot—where shall I hide my<g ref="char:EOLhyphen"/>self—hush?—on the tree! <hi>(throwing away the ax he climbs up the apple-tree).</hi>
                   </p>
                </sp>
@@ -485,7 +485,7 @@ Gertraud behind her, laying hold of every branch—Shall I plague the girl?—I 
                <sp>
                   <speaker>Gertr.</speaker>
                   <p>And whither does she carry me?—always to this place.—We are scarcely got into the garden,
-<pb n="6" facs="tcp:037746_0012_100EFE1CD68F19C8"/>
+<pb n="6" facs="unknown:037746_0012_100EFE1CD68F19C8"/>
 where I stop to eat currents—when, away she runs, jumping from rock to rock, like a wild goat, leaping like a squirrel from tree to tree, and all at once returns again to the same place, and old mother Gertraud may call till she is hoarse—</p>
                </sp>
                <sp>
@@ -543,7 +543,7 @@ where I stop to eat currents—when, away she runs, jumping from rock to rock, l
                <sp>
                   <speaker>Gertr.</speaker>
                   <p>Aye, aye, that pious Peter has a son with
-<pb n="7" facs="tcp:037746_0013_100EFE1EA908AF38"/>
+<pb n="7" facs="unknown:037746_0013_100EFE1EA908AF38"/>
 whose <gap reason="illegible: indecipherable" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> is not right. Has not that fellow last Sunday desired me to spin, and even during the mass I often catch him squinting at you from behind his hat.</p>
@@ -647,7 +647,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                      <hi>(ironically)</hi> And look for herbs?</p>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:037746_0014_100EFE216D2CBA50"/>
+                  <pb n="8" facs="unknown:037746_0014_100EFE216D2CBA50"/>
                   <speaker>Elsb.</speaker>
                   <p>I am fatigued. <hi>(She sits down upon the bench).</hi>
                   </p>
@@ -718,7 +718,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                   <p>You must not get angry— <stage>(he lets her go).</stage> Why will you not give me a kiss?</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:037746_0015_100EFE2361E717A8"/>
+                  <pb n="9" facs="unknown:037746_0015_100EFE2361E717A8"/>
                   <speaker>Elsb.</speaker>
                   <p>Have I not lately kissed you; when the rivu<g ref="char:EOLhyphen"/>let was swelled up and you carried the old man over the small bridge?</p>
                </sp>
@@ -831,7 +831,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                   <p>Will you promise that?</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:037746_0016_100EFE25C6A79148"/>
+                  <pb n="10" facs="unknown:037746_0016_100EFE25C6A79148"/>
                   <speaker>Elsb.</speaker>
                   <p>I'll rather go into a convent than to Walter of Blonay.</p>
                </sp>
@@ -932,7 +932,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                   <stage>(Both gather eagerly.)</stage>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:037746_0017_100EFE27F6C7F0E8"/>
+                  <pb n="11" facs="unknown:037746_0017_100EFE27F6C7F0E8"/>
                   <speaker>Henry.</speaker>
                   <p>There is a whole handfull.</p>
                </sp>
@@ -1031,7 +1031,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                   <p>What is it?</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:037746_0018_100EFE2B75A663E8"/>
+                  <pb n="12" facs="unknown:037746_0018_100EFE2B75A663E8"/>
                   <speaker>Gertr.</speaker>
                   <p>And you dare to ask? You wicked children! What have I seen?</p>
                </sp>
@@ -1126,7 +1126,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                   <p>That in your youthful days you were the finest damsel in the whole valley.</p>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:037746_0019_100ED47CD9320AF0"/>
+                  <pb n="13" facs="unknown:037746_0019_100ED47CD9320AF0"/>
                   <speaker>Gertr.</speaker>
                   <p>Paperlapapp.</p>
                </sp>
@@ -1224,7 +1224,7 @@ whose <gap reason="illegible: indecipherable" extent="1 span">
                <sp>
                   <speaker>Gertr.</speaker>
                   <p>Curiosity fits not a young damsel. We often
-<pb n="14" facs="tcp:037746_0020_100EFE2EE8CB2D20"/>
+<pb n="14" facs="unknown:037746_0020_100EFE2EE8CB2D20"/>
 hear more in one hour than we are able to forget all our life time.</p>
                </sp>
                <sp>
@@ -1312,7 +1312,7 @@ hear more in one hour than we are able to forget all our life time.</p>
                   <p>I may hereafter remind you of your word. For the present tell me where is your father?</p>
                </sp>
                <sp>
-                  <pb n="15" facs="tcp:037746_0021_100EFE312E6C8968"/>
+                  <pb n="15" facs="unknown:037746_0021_100EFE312E6C8968"/>
                   <speaker>Henry.</speaker>
                   <p>If you look over yonder fence you will see him in the garden.</p>
                </sp>
@@ -1373,7 +1373,7 @@ hear more in one hour than we are able to forget all our life time.</p>
                <stage>BRUNO—alone.</stage>
                <sp>
                   <p>Blessing on my Country! the lovely youth, uncorrupt<g ref="char:EOLhyphen"/>ed in soul and body. No sickly plant out of a princely garden; a fresh tree full of juice and strength. It was fortunate, perhaps, for you Burgundy, that it so happened. No monk has made his neck to bend, nor a prostitute de<g ref="char:EOLhyphen"/>prived him of the youthful red of his cheeks. But I forget that dear old Gentleman, so much was I surprised at the appearance of the youth—my intelligence is long looked
-<pb n="16" facs="tcp:037746_0022_100EFE3319B75FC0"/>
+<pb n="16" facs="unknown:037746_0022_100EFE3319B75FC0"/>
 for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that he—who is so busy digging the ground?—It fits him well—yet the sword fitted him better.—O how grief and age have altered him! grey hair, deep wrinkles on his fore<g ref="char:EOLhyphen"/>head—but 'tis he!—heart, my beating heart! Yes 'tis he!— <stage>(he calls)</stage> Chevalier, Hans of Bonstetten!</p>
                </sp>
                <sp>
@@ -1445,7 +1445,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                   <p>The dear pledge, entrusted to you by fate he lives.</p>
                </sp>
                <sp>
-                  <pb n="17" facs="tcp:037746_0023_100EFE350C00B930"/>
+                  <pb n="17" facs="unknown:037746_0023_100EFE350C00B930"/>
                   <speaker>Peter.</speaker>
                   <p>He lives.</p>
                </sp>
@@ -1499,7 +1499,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                      <p>Does he never desire to know your fate?</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037746_0024_100EFE36B8A54C08"/>
+                     <pb n="18" facs="unknown:037746_0024_100EFE36B8A54C08"/>
                      <speaker>Peter.</speaker>
                      <p>O yes, he is never tired of asking—My answers are oracles. His being my pupil only, never enters his mind. And indeed I love him as my child!</p>
                   </sp>
@@ -1536,7 +1536,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                      <p>No! no! I cannot see it in strange hands, <stage>(pressing it fervently to his bosom)</stage> In these ornaments I conducted her to the marriage altar. In these ornaments she swore to me eternal fidelity, and she has kept her vow—till death—My lovely faithful Agnez! the chain which once adorned your neck— <stage>(he puts it in his bosom)</stage> it shall never be wrested from my heart.</p>
                   </sp>
                   <stage>
-                     <pb n="19" facs="tcp:037746_0025_100EFE38593CA9B0"/>
+                     <pb n="19" facs="unknown:037746_0025_100EFE38593CA9B0"/>
                      <hi>Bruno. (Dries his eyes.)</hi>
                   </stage>
                   <sp>
@@ -1587,7 +1587,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                      <p>Two men went into the hut, carrying something that looked like a coffin: But Henry was not with them.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:037746_0026_100EFE3B2458B7D0"/>
+                     <pb n="20" facs="unknown:037746_0026_100EFE3B2458B7D0"/>
                      <speaker>Cuno.</speaker>
                      <stage>(<hi>behind the scene</hi>)</stage>
                      <p>Elsbeth!</p>
@@ -1677,7 +1677,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                      <p>Mother Gertraud would not go with me, and alone I dare not.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:037746_0027_100EFE3D1567DBC0"/>
+                     <pb n="21" facs="unknown:037746_0027_100EFE3D1567DBC0"/>
                      <speaker>Gertr.</speaker>
                      <p>Aye, aye, <hi>alone!</hi> when the Bee is out of the basket, there are ten swallows behind to catch it up.</p>
                   </sp>
@@ -1773,7 +1773,7 @@ for yet unexpected.— <stage>(he approaches the garden fence)</stage> Is that h
                   <sp>
                      <speaker>Gertr.</speaker>
                      <p>To the North is a beautiful wood,—that is not her
-<pb n="22" facs="tcp:037746_0028_100EFE3EEC067A30"/>
+<pb n="22" facs="unknown:037746_0028_100EFE3EEC067A30"/>
 rout; to the South is a pleasant declivity reaching to the very lake—that does not attract her—westward a charming eminence, where the great poplar tree stands, there she finds no pleasure either—</p>
                   </sp>
                   <sp>
@@ -1863,7 +1863,7 @@ rout; to the South is a pleasant declivity reaching to the very lake—that does
                      <p>And a holy legend.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037746_0029_100EFE419C24B258"/>
+                     <pb n="23" facs="unknown:037746_0029_100EFE419C24B258"/>
                      <speaker>Gertr.</speaker>
                      <p>And a prayer book.</p>
                   </sp>
@@ -1949,7 +1949,7 @@ rout; to the South is a pleasant declivity reaching to the very lake—that does
                      <p>Knighthood's honor and women's management, are things of which Cuno of Hallwyl does not make a jest.</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:037746_0030_100EFE43A07E7370"/>
+                     <pb n="24" facs="unknown:037746_0030_100EFE43A07E7370"/>
                      <speaker>Peter.</speaker>
                      <p>What gives you reason?</p>
                   </sp>
@@ -2034,7 +2034,7 @@ rout; to the South is a pleasant declivity reaching to the very lake—that does
                   <sp>
                      <speaker>Peter.</speaker>
                      <p>No, noble knight, the palm of peace has over<g ref="char:EOLhyphen"/>shawdowed eighteen years my quiet hut, thanks to you for it: my wants you helpfully supplied—Never shall I
-<pb n="25" facs="tcp:037746_0031_100EFE45919C9F08"/>
+<pb n="25" facs="unknown:037746_0031_100EFE45919C9F08"/>
 forget it. When dire disease laid my wife upon the sick bed, your kitchen and cellar were open; you yourself were day and night at her bed side; your tears dropped upon her sick bed—and at last upon her grave—that is engraven upon my heart!—</p>
                   </sp>
                   <sp>
@@ -2087,7 +2087,7 @@ forget it. When dire disease laid my wife upon the sick bed, your kitchen and ce
                      <p>Father, the sun shine so bright to day, the fish won't touch the hook. Blessing to you, noble knight! Is Miss Elsbeth with you?</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:037746_0032_100EFE48328B3198"/>
+                     <pb n="26" facs="unknown:037746_0032_100EFE48328B3198"/>
                      <speaker>Cuno.</speaker>
                      <p>May be.</p>
                   </sp>
@@ -2196,7 +2196,7 @@ forget it. When dire disease laid my wife upon the sick bed, your kitchen and ce
                      <p>Henceforth we want it not.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037746_0033_100EFE4A38E5A4B0"/>
+                     <pb n="27" facs="unknown:037746_0033_100EFE4A38E5A4B0"/>
                      <speaker>Henry.</speaker>
                      <p>The hut will fall to pieces, the garden decay—</p>
                   </sp>
@@ -2273,7 +2273,7 @@ forget it. When dire disease laid my wife upon the sick bed, your kitchen and ce
                      <p>You are my good father—I would willingly obey you—indeed with all my heart—but—I must confess—Miss Elsbeth is so dear to me!</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037746_0034_100EFE4BC36D3668"/>
+                     <pb n="28" facs="unknown:037746_0034_100EFE4BC36D3668"/>
                      <speaker>Peter.</speaker>
                      <p>What is Elsbeth to you?</p>
                   </sp>
@@ -2342,7 +2342,7 @@ forget it. When dire disease laid my wife upon the sick bed, your kitchen and ce
                      <p>The rights of nature.</p>
                   </sp>
                   <p>Nature, nature—I know not what that means. Have you then made an alliance with nature to win my heart? Can I love my mother more than you? More than Miss
-<pb n="29" facs="tcp:037746_0035_100EFE4EA97DEED8"/>
+<pb n="29" facs="unknown:037746_0035_100EFE4EA97DEED8"/>
 Elsbeth?—In God's name, how came I to be an orphan all at once!—For pity's sake! stay father, or I throw my<g ref="char:EOLhyphen"/>self into the stream!—</p>
                   <sp>
                      <speaker>Peter.</speaker>
@@ -2393,7 +2393,7 @@ Elsbeth?—In God's name, how came I to be an orphan all at once!—For pity's s
                      <p>You jest and I am half dead.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:037746_0036_100EFE502D974F78"/>
+                     <pb n="30" facs="unknown:037746_0036_100EFE502D974F78"/>
                      <speaker>Elsb.</speaker>
                      <p>You? let us see, how one looks, when one is half dead? red cheeks—clear eyes—</p>
                   </sp>
@@ -2508,7 +2508,7 @@ Elsbeth?—In God's name, how came I to be an orphan all at once!—For pity's s
                      <p>It's all the same to me. If this is not my father, I won't have another.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037746_0037_100EFE5213A4BF60"/>
+                     <pb n="31" facs="unknown:037746_0037_100EFE5213A4BF60"/>
                      <speaker>Elsb.</speaker>
                      <p>Why not? There are more good fathers in the world. For instance my father—if he would take you for my brother—how funny it would be.</p>
                   </sp>
@@ -2619,7 +2619,7 @@ Elsbeth?—In God's name, how came I to be an orphan all at once!—For pity's s
                   <sp>
                      <speaker>Henry.</speaker>
                      <p>You give me your hand—I shake it heartily—you look at me sorrowfully—I weep—you say farewell—
-<pb n="32" facs="tcp:037746_0038_100EFE53F8EC3078"/>
+<pb n="32" facs="unknown:037746_0038_100EFE53F8EC3078"/>
 and I say farewell—then one goes this and the other that way.</p>
                   </sp>
                   <sp>
@@ -2702,7 +2702,7 @@ and I say farewell—then one goes this and the other that way.</p>
                      <p>If your heart overcomes your reason, remem<g ref="char:EOLhyphen"/>ber at least a father's right, which you have voluntarily conferred on me. You must go with me.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:037746_0039_100EFE574874FE48"/>
+                     <pb n="33" facs="unknown:037746_0039_100EFE574874FE48"/>
                      <speaker>Henry.</speaker>
                      <p>You say, you must!—Elsbeth says nothing—she only looks at me—and I can only obey her.</p>
                   </sp>
@@ -2808,7 +2808,7 @@ and I say farewell—then one goes this and the other that way.</p>
                      <p>Henry goes with his father, and you stay at home in your chamber till you are conducted to the marriage altar.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037746_0040_100EFE591FC79308"/>
+                     <pb n="34" facs="unknown:037746_0040_100EFE591FC79308"/>
                      <speaker>Henry.</speaker>
                      <stage>(dejected)</stage>
                      <p>Do you hear, Elsbeth?</p>
@@ -2916,7 +2916,7 @@ and I say farewell—then one goes this and the other that way.</p>
                      <p>Farewell!</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037746_0041_100EFE5AB6FC2430"/>
+                     <pb n="35" facs="unknown:037746_0041_100EFE5AB6FC2430"/>
                      <speaker>Cuno.</speaker>
                      <p>God's blessing on the journey!</p>
                   </sp>
@@ -2990,7 +2990,7 @@ and I say farewell—then one goes this and the other that way.</p>
                   <sp>
                      <speaker>Henry.</speaker>
                      <p>You jest. And do we sit easier upon a throne than here under this appletree? What think you father? If with your left hand you could take hold of a sceptre,
-<pb n="36" facs="tcp:037746_0042_100EFE5D817E6688"/>
+<pb n="36" facs="unknown:037746_0042_100EFE5D817E6688"/>
 and with your right draw the good Agnez from the grave, which would you do?</p>
                   </sp>
                   <sp>
@@ -3068,7 +3068,7 @@ and with your right draw the good Agnez from the grave, which would you do?</p>
                   <sp>
                      <speaker>Peter.</speaker>
                      <p>How?—Shall I then turn my back to you little hut, which for eighteen years has given me a friend<g ref="char:EOLhyphen"/>ly shelter?—Is not one wet eye of gratitude to be cast on you?—Fy on the man who suffers shipwreck, and can without feeling burn the piece of board, upon which he safely reached the shore. How many serene moments have
-<pb n="37" facs="tcp:037746_0043_100EFE5F6C56FB90"/>
+<pb n="37" facs="unknown:037746_0043_100EFE5F6C56FB90"/>
 love, hope, and piety created for me here!—May lightening and storm spare your rotten roof! and give shelter to many a weary pilgrim! May the doves contin<g ref="char:EOLhyphen"/>ue to coo on the tops of these cedar trees, and fetch their food from this garden, where henceforth no one will dis<g ref="char:EOLhyphen"/>trub them. <stage>(<hi>he turns round and looks at the distant hill</hi>)</stage> But ah! whose hand will nurse the plants which orna<g ref="char:EOLhyphen"/>ment my Agnez's grave?—Agnez!—to seperate myself from your dust!— <stage>(rashly)</stage> go, Bruno, follow him, Henry—one moment more for my heart! Then I belong to you and our country.</p>
                   </sp>
                   <sp>
@@ -3105,7 +3105,7 @@ love, hope, and piety created for me here!—May lightening and storm spare your
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="38" facs="tcp:037746_0044_100EFE60F235D608"/>
+               <pb n="38" facs="unknown:037746_0044_100EFE60F235D608"/>
                <head>ACT. III.</head>
                <p>
                   <hi>An open place at ARLES ſurrounded with trees; in the back ground the palace of the Count of Burgundy. In the foreground the house of a Cooper who with his journeyman, is occupied at his door, in putting hoops to a barrel. They often stop working, to talk.</hi>
@@ -3155,7 +3155,7 @@ love, hope, and piety created for me here!—May lightening and storm spare your
                      <p>It's a wonder he did'nt drive you from your house.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:037746_0045_100EFE6283BD4A68"/>
+                     <pb n="39" facs="unknown:037746_0045_100EFE6283BD4A68"/>
                      <speaker>Bruno.</speaker>
                      <p>This almost happened once—"Your hut," he said, disfigures the place before the palace;"—My lord, I answered: <hi>Integrity and industry are the occupants of this hut; would to God! we could say that of many a pal<g ref="char:EOLhyphen"/>ace"—" I will buy your hut,"</hi>
 continued he—"<hi>I will not sell it. My great, great, grandfather has built it, my father repaired it, I was born and educated in it. My old father is blind and can find his way in it without dan<g ref="char:EOLhyphen"/>ger. But if I bring him to a strange house he will knock out his brains."</hi>—What answer do you think my lord deigned to give me?—"Well then", he said, stroking his beard; and what of that?"—</p>
@@ -3192,7 +3192,7 @@ continued he—"<hi>I will not sell it. My great, great, grandfather has built i
                   <sp>
                      <speaker>Benedict.</speaker>
                      <p>It would be better for her, if she was dead. To spare her was worse than murder. The good Lady buried herself in a Convent. She may have forgot hus<g ref="char:EOLhyphen"/>band and children, but the splendor of high life, and the
-<pb n="40" facs="tcp:037746_0046_100EFE6576106888"/>
+<pb n="40" facs="unknown:037746_0046_100EFE6576106888"/>
 thirst for revenge, she cannot forget, it is said.—It's na<g ref="char:EOLhyphen"/>tural, she was mother—I am only a burgher, but could I find one of the murderers, I would hammer him into a hoop.</p>
                      <stage>(He works earnestly).</stage>
                   </sp>
@@ -3282,7 +3282,7 @@ thirst for revenge, she cannot forget, it is said.—It's na<g ref="char:EOLhyph
                      <p>Bring them forward! ring the alarm-bell!</p>
                   </sp>
                   <stage>
-                     <pb n="41" facs="tcp:037746_0047_100EFE6762725430"/>
+                     <pb n="41" facs="unknown:037746_0047_100EFE6762725430"/>
                      <hi>(The alarm-bell is heard ringing. The tumult is encreas<g ref="char:EOLhyphen"/>ing. They ask, they call, cry, relate, rave, all pell mell).</hi>
                   </stage>
                   <sp>
@@ -3325,7 +3325,7 @@ thirst for revenge, she cannot forget, it is said.—It's na<g ref="char:EOLhyph
                   <sp>
                      <speaker>Martin.</speaker>
                      <p>My blood chilled. Yet I was uncertain till I discovered at the old man's feet, a large silver cup—they may have been drinking the evening before on their hap<g ref="char:EOLhyphen"/>py
-<pb n="42" facs="tcp:037746_0048_100EFE68E89CCE08"/>
+<pb n="42" facs="unknown:037746_0048_100EFE68E89CCE08"/>
 return—when I took up the cup, the arms of Burgun<g ref="char:EOLhyphen"/>dy stared me in the face.</p>
                   </sp>
                   <sp>
@@ -3362,7 +3362,7 @@ return—when I took up the cup, the arms of Burgun<g ref="char:EOLhyphen"/>dy s
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="43" facs="tcp:037746_0049_100EFE6ACD9566D8"/>
+                  <pb n="43" facs="unknown:037746_0049_100EFE6ACD9566D8"/>
                   <head>SCENE IV.</head>
                   <stage>PETER, tied, and conducted by a GUARD, enters with a serene countenance, among the PEOPLE.</stage>
                   <sp>
@@ -3435,7 +3435,7 @@ return—when I took up the cup, the arms of Burgun<g ref="char:EOLhyphen"/>dy s
                      <p>Indeed! this voice does not sound strange to me!</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:037746_0050_100EFE6DEBDCDDD8"/>
+                     <pb n="44" facs="unknown:037746_0050_100EFE6DEBDCDDD8"/>
                      <speaker>Peter.</speaker>
                      <p>My God! have time and grief thus disfigured my features? Is there not one who in his native place bids welcome to <hi>Hans</hi> of <hi>Bonstetten?</hi>
                      </p>
@@ -3485,7 +3485,7 @@ return—when I took up the cup, the arms of Burgun<g ref="char:EOLhyphen"/>dy s
                      <p>Overcome your surprise! hear me! hear a friend's voice. In that dreadful night, when the clash<g ref="char:EOLhyphen"/>ing of the swords of hired murderers, and the groans of the dying surrounded me; when my good master al<g ref="char:EOLhyphen"/>ready lay bleeding at my feet, and his elder sons were drawing their last breath; I called my wife, to whose care the youngest child was entrusted: Agnez, I cried, save your precious nursling! the Count's ring I took from the finger of the corpse, the silver cup I snatched from the table. By a secret door we escaped and reached the open air. In the darkness of the night, through swamps and bushes, through thorns and thistles, we walked on unused roads. The sun rose but to perplex us, for he gave light to our pursuers. During day we hid ourselves in cornfields, and silenced our hunger with unripe corn, God guarded your prince! we reached the frontiers of Burgundy. Thence I sent my old companion, my faith<g ref="char:EOLhyphen"/>ful servant Bruno, back. He was to wait in silence, till he could bring me news of better times. At the foot of the Alps, in a poor hermit's hut, I took care of the dear pledge, confided to me by God. The boy has ri<g ref="char:EOLhyphen"/>pened to youthful beauty. Citizens of Arles! to day I brought him back to you! take him, and your future hap<g ref="char:EOLhyphen"/>piness from my hands!</p>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:037746_0051_100EFE6FDCAE3578"/>
+                     <pb n="45" facs="unknown:037746_0051_100EFE6FDCAE3578"/>
                      <speaker>The Peop.</speaker>
                      <stage>(<hi>rejoiced</hi>)</stage>
                      <p>Where—where!—</p>
@@ -3565,7 +3565,7 @@ return—when I took up the cup, the arms of Burgun<g ref="char:EOLhyphen"/>dy s
                      <speaker>Henry,</speaker>
                      <stage>(<hi>with a faultering voice.</hi>)</stage>
                      <p>Your first sight of
-<pb n="46" facs="tcp:037746_0052_100EFE71AE7B9CC8"/>
+<pb n="46" facs="unknown:037746_0052_100EFE71AE7B9CC8"/>
 me inspires you with love; for this I have to thank my father—May his blessing be upon me.</p>
                   </sp>
                   <sp>
@@ -3628,7 +3628,7 @@ me inspires you with love; for this I have to thank my father—May his blessing
                   <sp>
                      <speaker>Matilda.</speaker>
                      <p>Hah! my solitary cell will for the first time re-echo the maternal joy! no more shall I pray for re<g ref="char:EOLhyphen"/>venge
-<pb n="47" facs="tcp:037746_0053_100EFE7463A824B0"/>
+<pb n="47" facs="unknown:037746_0053_100EFE7463A824B0"/>
 before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak these words to the Father of us all!</p>
                   </sp>
                   <sp>
@@ -3686,7 +3686,7 @@ before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak t
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="48" facs="tcp:037746_0054_100EFE765713FD50"/>
+                  <pb n="48" facs="unknown:037746_0054_100EFE765713FD50"/>
                   <head>SCENE VII.</head>
                   <stage>A crowd of people come tumultuously from the Palace, carrying a boy, bound.</stage>
                   <sp>
@@ -3782,7 +3782,7 @@ before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak t
                      <p>Then you are my brother Henry?</p>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:037746_0055_100EFE784543ABE8"/>
+                     <pb n="49" facs="unknown:037746_0055_100EFE784543ABE8"/>
                      <speaker>Henry.</speaker>
                      <p>Yes, I promise it to you in the face of God and my people!</p>
                   </sp>
@@ -3865,7 +3865,7 @@ before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak t
                   </sp>
                </div>
                <div n="8" type="scene">
-                  <pb n="50" facs="tcp:037746_0056_100EFE7A758E4808"/>
+                  <pb n="50" facs="unknown:037746_0056_100EFE7A758E4808"/>
                   <head>SCENE VIII.</head>
                   <stage>HENRY, PETER and MATILDA.</stage>
                   <stage>Matilda.(Standing with folded hands in deep medita<g ref="char:EOLhyphen"/>tion.)</stage>
@@ -3934,7 +3934,7 @@ before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak t
                      <p>It is that narrowness of heart, that makes a man think himself of superior quality to whom millions look up.</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:037746_0057_100EFE7CA314CA08"/>
+                     <pb n="51" facs="unknown:037746_0057_100EFE7CA314CA08"/>
                      <speaker>Henry.</speaker>
                      <p>It is the gratitude of millions only that can justify such a thought.</p>
                   </sp>
@@ -4010,7 +4010,7 @@ before the Crucifix!—thanks!—thanks!—Oh how much a mother loves to speak t
                   <sp>
                      <speaker>Henry.</speaker>
                      <p>Well, then invite to court all the daughters of the country; I will look at them all as at a bed of flowers:
-<pb n="52" facs="tcp:037746_0058_100EFE7E8BBD10E0"/>
+<pb n="52" facs="unknown:037746_0058_100EFE7E8BBD10E0"/>
 here a beautiful tulip; there an odoriferous violet: here an innocent lilly; there a scented pink—Oh! they are all nothing in comparison to the queen of flow<g ref="char:EOLhyphen"/>ers, the glowing rose.</p>
                   </sp>
                   <sp>
@@ -4104,7 +4104,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                      <p>Do not finish the sentence, mother—</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:037746_0059_100EFE80D78531C8"/>
+                     <pb n="53" facs="unknown:037746_0059_100EFE80D78531C8"/>
                      <speaker>Mat.</speaker>
                      <p>She would bring you a principality as a dowry.</p>
                   </sp>
@@ -4186,7 +4186,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                      <p>It's well you come, dear Count; you have gained my confidence—</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037746_0060_100EFE82C2DB1C10"/>
+                     <pb n="54" facs="unknown:037746_0060_100EFE82C2DB1C10"/>
                      <speaker>Hugo.</speaker>
                      <p>Too soon, my noble young master! confidence is not a piece of coin, to put upon the hazard of a die; we must not <hi>gain,</hi> but <hi>deserve</hi> it.</p>
                   </sp>
@@ -4224,7 +4224,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                   </sp>
                </div>
                <div n="10" type="scene">
-                  <pb n="55" facs="tcp:037746_0061_100EFE8469FC0C00"/>
+                  <pb n="55" facs="unknown:037746_0061_100EFE8469FC0C00"/>
                   <head>SCENE X.</head>
                   <stage>A solemn march. Boys and girls dressed in white, lead in the midst of them, a lamb, ornamented with ribbons. They are followed by youths and young girls with garlands. Some old men close the procession, one of whom carries a golden cup filed with pieces of gold. The procession ranges itself on both sides. The music is silent. The old man with the cup advances, and addresses HENRY.</stage>
                   <sp>
@@ -4279,7 +4279,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="56" facs="tcp:037746_0062_100EFE8654552788"/>
+               <pb n="56" facs="unknown:037746_0062_100EFE8654552788"/>
                <head>ACT IV.</head>
                <p>An Apartment in the Castle of Hallwyl.</p>
                <div n="1" type="scene">
@@ -4310,7 +4310,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                      <p>Its indifferent to me.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:037746_0063_100EFE88B1EF2C30"/>
+                     <pb n="57" facs="unknown:037746_0063_100EFE88B1EF2C30"/>
                      <speaker>Gertr.</speaker>
                      <p>Do but see, and smell.</p>
                   </sp>
@@ -4370,7 +4370,7 @@ here a beautiful tulip; there an odoriferous violet: here an innocent lilly; the
                   <sp>
                      <speaker>Gertr.</speaker>
                      <p>I don't know what to think of you. I am afraid the old witch down in the village has played her tricks with you. That wicked hag does great mischief among men and cattle. The magistrates should be more vigilant. Is it not a pity, how the poor child pines away. Her clothes become too wide. She used to hop along upon one leg, but now she can scarcely crawl upon two. For<g ref="char:EOLhyphen"/>merly she laughed at every thing; now she weeps for no<g ref="char:EOLhyphen"/>thing. But patience, she will laugh enough, when she sees this fine knight. He is grown thick and sat; a dark complexion, black wiskers, a fine dress, and feathers in his hat. All is alive below in the castle yard; there are pages and chamber maids, horses and mules, chests and trunks without number. Ah! what fine things and bridal ornaments must they contain. My mouth water at the
-<pb n="58" facs="tcp:037746_0064_100EFE8AA2A35AF8"/>
+<pb n="58" facs="unknown:037746_0064_100EFE8AA2A35AF8"/>
 thought of it!—Heaven has at last granted my prayers, I shall live to conduct my sweet young lady to her bridal chamber, and put on her nightcap.—But, you hear me not, what are you staring at through this window?</p>
                   </sp>
                   <sp>
@@ -4431,7 +4431,7 @@ thought of it!—Heaven has at last granted my prayers, I shall live to conduct 
                   <sp>
                      <speaker>Walt.</speaker>
                      <p>I was but a youth, when by my bravery in bat<g ref="char:EOLhyphen"/>tle, I acquired the crowned Lyon for my device. Many
-<pb n="59" facs="tcp:037746_0065_100EFE8C6BE9C2A0"/>
+<pb n="59" facs="unknown:037746_0065_100EFE8C6BE9C2A0"/>
 a fine damsel would then have rejoiced, if I had exchang<g ref="char:EOLhyphen"/>ed the lion, crown and all, for a heart pierced by darts. But now—</p>
                   </sp>
                   <sp>
@@ -4470,7 +4470,7 @@ a fine damsel would then have rejoiced, if I had exchang<g ref="char:EOLhyphen"/
                      <p>Good day to you, valiant knight! My father sent me here.</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:037746_0066_100EFE8EC2898170"/>
+                     <pb n="60" facs="unknown:037746_0066_100EFE8EC2898170"/>
                      <speaker>Walter.</speaker>
                      <p>And without your father's command you would not have come to meet me?</p>
                   </sp>
@@ -4557,7 +4557,7 @@ a fine damsel would then have rejoiced, if I had exchang<g ref="char:EOLhyphen"/
                      <p>Your pious eye speaks plain. You would not even deceive a rogue.</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:037746_0067_100EFE90A6B9B628"/>
+                     <pb n="61" facs="unknown:037746_0067_100EFE90A6B9B628"/>
                      <speaker>Elsb.</speaker>
                      <p>If you value your happiness and mine, do not take me for your wife.</p>
                   </sp>
@@ -4658,7 +4658,7 @@ a fine damsel would then have rejoiced, if I had exchang<g ref="char:EOLhyphen"/
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="62" facs="tcp:037746_0068_100EFE92A7A41240"/>
+                  <pb n="62" facs="unknown:037746_0068_100EFE92A7A41240"/>
                   <head>SCENE V.</head>
                   <stage>Enter CUNO.—The FORMER.</stage>
                   <sp>
@@ -4769,7 +4769,7 @@ a fine damsel would then have rejoiced, if I had exchang<g ref="char:EOLhyphen"/
                   <sp>
                      <speaker>Cuno.</speaker>
                      <p>Naughty child! will there be every day such suitors? you are a poor girl, your smooth face is but a slender dowry. You also know that I cannot, lead you, dressed in silk and velvet, from one carousal to another, there to be stared and eyed at. You bloom here in ob<g ref="char:EOLhyphen"/>scurity; no one sees you, no one knows you; the num<g ref="char:EOLhyphen"/>ber of my friends is but small, for at my house there are
-<pb n="63" facs="tcp:037746_0069_100EFE94AA5C19D8"/>
+<pb n="63" facs="unknown:037746_0069_100EFE94AA5C19D8"/>
 no festivals. You ought to thank your patron saint for having sent to you un upright man, who does not despise our poverty.</p>
                   </sp>
                   <sp>
@@ -4814,7 +4814,7 @@ no festivals. You ought to thank your patron saint for having sent to you un upr
                   <sp>
                      <speaker>Cuno.</speaker>
                      <p>When, on account of my fidelity to my liege Lord, the Count of Greyerz, the Emperor proscribed me; when the finest of my castles became destroyed and de<g ref="char:EOLhyphen"/>molished, and I saw my property go to ruin; then I thought: If God pleases, my Elsbeth will be spared to me! and if she finds a good and rich husband, I will live with her, she will not let me suffer in my old age.—Alas! poor old man! she goes to a convent and prays, to the saints to help her father, whom she does not like to assist
-<pb n="64" facs="tcp:037746_0070_100EFE97017E7A10"/>
+<pb n="64" facs="unknown:037746_0070_100EFE97017E7A10"/>
 herself.—Go! go! mother Gertraud will close my dy<g ref="char:EOLhyphen"/>ing eyes.</p>
                      <stage>(<hi>He weeps</hi>)</stage>
                   </sp>
@@ -4888,7 +4888,7 @@ herself.—Go! go! mother Gertraud will close my dy<g ref="char:EOLhyphen"/>ing 
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="65" facs="tcp:037746_0071_100EFE98E7150140"/>
+                  <pb n="65" facs="unknown:037746_0071_100EFE98E7150140"/>
                   <head>SCENE VI.</head>
                   <stage>Enter ATTENDANT.</stage>
                   <sp>
@@ -4969,7 +4969,7 @@ herself.—Go! go! mother Gertraud will close my dy<g ref="char:EOLhyphen"/>ing 
                      <p>Good luck to you. <stage>(<hi>Turning to Cuno.</hi>)</stage> Knight I have to deliver a message to you.</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:037746_0072_100EFE9AD3C25980"/>
+                     <pb n="66" facs="unknown:037746_0072_100EFE9AD3C25980"/>
                      <speaker>Cuno.</speaker>
                      <p>Speak in peace.—</p>
                   </sp>
@@ -5041,7 +5041,7 @@ herself.—Go! go! mother Gertraud will close my dy<g ref="char:EOLhyphen"/>ing 
                   <sp>
                      <speaker>Cuno.</speaker>
                      <p>God knows, how I doat on the damsel! yet were
-<pb n="67" facs="tcp:037746_0073_100EFE9C6D6621A0"/>
+<pb n="67" facs="unknown:037746_0073_100EFE9C6D6621A0"/>
 she capable of deviating on this occasion, from the con<g ref="char:EOLhyphen"/>duct which I demand and expect of her; I would tear her from my heart!—Go, page, and call my daugh<g ref="char:EOLhyphen"/>ter. <stage>(A page goes off.) (To Hugo.)</stage> Knight, do not take it amiss, you know the laws of honor. If I cannot fulfil your wish, you are notwithstanding heartily wel<g ref="char:EOLhyphen"/>come to my house.</p>
                   </sp>
                   <sp>
@@ -5112,7 +5112,7 @@ she capable of deviating on this occasion, from the con<g ref="char:EOLhyphen"/>
                      <p>Do you delight in my perplexity? Can my good father make jest of me?</p>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:037746_0074_100EFE9F5EA86768"/>
+                     <pb n="68" facs="unknown:037746_0074_100EFE9F5EA86768"/>
                      <speaker>Cuno.</speaker>
                      <p>Not at all! The proposal is serious, for with Hallwyl's daughter no one shall dare to sport. What I in duty had to say, I have said already; it is your turn, speak, the language of your heart.</p>
                   </sp>
@@ -5189,7 +5189,7 @@ she capable of deviating on this occasion, from the con<g ref="char:EOLhyphen"/>
                   <sp>
                      <speaker>Walt.</speaker>
                      <p>God forbid, that I should separate such a pair!
-<pb n="69" facs="tcp:037746_0075_100EFEA1B394E138"/>
+<pb n="69" facs="unknown:037746_0075_100EFEA1B394E138"/>
 remain my friend, noble Miss, wear my ring as a remem<g ref="char:EOLhyphen"/>brance of a faithful friend.</p>
                   </sp>
                   <sp>
